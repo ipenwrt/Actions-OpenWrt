@@ -6,6 +6,6 @@
 - 固件添加了 `IPV6` 支持，修改了默认主题为 [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
 
 ## 鸣谢
-| [coolsnowwolf](https://github.com/coolsnowwolf) | [P3TERX](https://github.com/P3TERX) |
-| :-------------: | :-------------: |
-| <img width="100" src="https://avatars.githubusercontent.com/u/31687149"/> | <img width="100" src="https://avatars.githubusercontent.com/u/25927179"/> |
+| [coolsnowwolf](https://github.com/coolsnowwolf) | [P3TERX](https://github.com/P3TERX) | [jerrykuku](https://github.com/jerrykuku) |
+| :-------------: | :-------------: | :-------------: |
+| <img width="100" src="https://avatars.githubusercontent.com/u/31687149"/> | <img width="100" src="https://avatars.githubusercontent.com/u/25927179"/> | <img width="100" src="https://avatars.githubusercontent.com/u/9485680"/> |
